@@ -2,7 +2,6 @@
   "spider": "./lib/moyu.php;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "http://我不是.摸鱼儿.top/wallpaper/moyu.php",
   "logo": "https://s1.imagehub.cc/images/2024/06/11/80538bfb3835ffebf7c5fd0716280801.jpeg",
-  "warningText": "摸鱼儿：资源来自网络，无盈利纯技术分享！弹幕资源由ok提供技术支持，已获授权。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
     {
       "key": "豆豆",
@@ -83,8 +82,9 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "site": "https://duopan.fun",
         "danmu": true
       }
@@ -99,9 +99,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "wogg": true,
         "danmu": true
       }
@@ -116,8 +116,9 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "site": "https://wobgg.run-us-west2.goorm.io/",
         "danmu": true
       },
@@ -133,8 +134,9 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "site": "https://tv.yydsys.top/",
         "danmu": true
       },
@@ -150,8 +152,9 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "danmu": true
       },
       "timeout": 25
@@ -166,9 +169,9 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "site": "https://mihdr.top",
         "danmu": true
       }
@@ -183,9 +186,9 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "site": "https://4k.4u4.cn",
         "danmu": true
       }
@@ -200,8 +203,9 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "site": "https://tudou.lvdoui.top",
         "danmu": true
       },
@@ -582,9 +586,9 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+        "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
         "danmu": true
       }
     },
@@ -1170,7 +1174,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
         "danmu": true
       },
       "timeout": 15
@@ -1185,7 +1189,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
         "danmu": true
       },
       "timeout": 15
@@ -1200,7 +1204,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
         "danmu": true
       },
       "timeout": 15
@@ -1215,7 +1219,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
         "danmu": true
       }
     },
@@ -1229,8 +1233,8 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
         "danmu": true
       }
     },
@@ -1266,7 +1270,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
         "danmu": true
       },
       "timeout": 15
@@ -1281,7 +1285,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
         "danmu": true
       },
       "timeout": 15
@@ -1296,7 +1300,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
         "danmu": true
       },
       "timeout": 15
@@ -1311,7 +1315,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
         "danmu": true
       },
       "timeout": 15
@@ -1326,8 +1330,8 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
         "danmu": true
       },
       "timeout": 15
@@ -1342,8 +1346,8 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
+        "token": "426246bf3a574f858ab0e0500ac709f2",
+        "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
         "danmu": true
       },
       "timeout": 15
